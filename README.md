@@ -1,4 +1,5 @@
 ## mysql-sharding-jdbc
+mysql分库分表
 ```yaml
 spring:
   application:

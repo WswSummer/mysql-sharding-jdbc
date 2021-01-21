@@ -27,4 +27,9 @@ class MysqlShardingJdbcApplicationTests {
         System.out.println(userService.getUser(3));
     }
 
+    @Test
+    public void getAllUser() {
+        System.out.println(userService.getUsers());
+    }
+
 }
